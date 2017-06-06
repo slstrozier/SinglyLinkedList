@@ -1,0 +1,6 @@
+c:\users\slstr_000\documents\visual studio 2017\Projects\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe.config
+c:\users\slstr_000\documents\visual studio 2017\Projects\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe
+c:\users\slstr_000\documents\visual studio 2017\Projects\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.pdb
+c:\users\slstr_000\documents\visual studio 2017\Projects\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.csprojResolveAssemblyReference.cache
+c:\users\slstr_000\documents\visual studio 2017\Projects\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.exe
+c:\users\slstr_000\documents\visual studio 2017\Projects\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.pdb
